@@ -1,0 +1,140 @@
+﻿Algorithm A step-by-step procedure to solve a problem
+
+Pseudocode A way to describe an algorithm using plain language mixed with code-like structure
+
+Flowchart A visual diagram that shows the flow of an algorithm
+
+Recursion When a function calls itself to solve smaller parts of the problem
+
+Iteration Repeating a set of instructions (usually with loops)
+
+Loop A programming structure that repeats a block of code
+
+Condition A rule that decides whether a block of code should run (if/else)
+
+Variable A storage place for data that can change during execution
+
+Function A block of code that performs a specific task
+
+Parameter A variable used to pass information into a function
+
+Argument The actual value passed to a function's parameter.
+
+Return The result that a function sends back after completion
+
+Array A collection of elements stored at contiguous memory locations
+
+List An ordered collection of elements
+
+Stack A data structure that follows Last In First Out (LIFO) rule
+
+Queue A data structure that follows First In First Out (FIFO) rule
+
+Linked List A data structure made of nodes, where each node points to the next
+
+Tree A hierarchical data structure with nodes connected like branches
+
+Graph A set of nodes connected by edges
+Node A basic unit of data in a tree or graph
+Edge A connection between two nodes in a graph
+Vertex Another name for a node in a graph
+Weight A value that represents the cost of moving along an edge in a graph
+
+
+deadline  the line you cross when you realize you haven’t started yet.
+
+
+
+
+project  a group activity where one person does everything.
+
+
+action The process or state of acting or doing something.
+
+active Having the quality of being energetic or busy.
+
+queen The female ruler of an independent state.
+
+rose A woody perennial flowering plant of the genus Rosa.
+
+sun The star around which the earth orbits.
+
+tiger A large cat species with a pattern of dark vertical stripes.
+
+umbrella A device used for protection against rain or sun.
+
+violin A string instrument played with a bow.
+
+watch A small timepiece worn typically on a strap.
+
+zebra An African wild horse with black-and-white stripes.
+
+bit The smallest unit of data in computing.
+
+byte A group of 8 bits.
+
+bug An error or flaw in a software program.
+
+java A high-level, object-oriented programming language.
+
+loop A control flow statement that allows repeated execution of code.
+
+method A function associated with a class.
+
+node A basic unit in data structures like linked lists or trees.
+
+tree A hierarchical data structure.
+
+variable A named storage that holds data in a program.
+
+variable A named storage location.
+
+vector A dynamic array.
+
+while A loop that runs with a condition.
+
+pen A writing tool 
+
+
+
+library  a place where we pretend to study but mostly nap.
+
+
+queue  a linear structure which follows FIFO order
+
+
+stack  a linear structure which follows LIFO order
+
+
+tree  a non-linear hierarchical data structure
+
+
+linkedlist  a linear collection of elements where each points to the next
+
+
+node  an element of a linked structure
+
+
+array  a collection of items stored at contiguous memory locations
+
+
+algorithm  a step-by-step procedure for calculations
+
+
+binary a number system using only 0 and 1
+
+
+class a blueprint for creating objects in object-oriented programming
+
+
+compile  to convert code into machine-readable format
+
+
+function  a block of code designed to perform a specific task
+
+
+loop  a sequence of instructions that repeats until a condition is met
+
+
+memory  the component where data is stored temporarily or permanently
+internship  A professional experience where you learn what not to do.
